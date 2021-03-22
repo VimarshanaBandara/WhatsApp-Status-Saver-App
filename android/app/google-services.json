@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "586650252189",
+    "project_id": "statusdownloader-415c6",
+    "storage_bucket": "statusdownloader-415c6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:586650252189:android:0bd1e22beef1525ca2f574",
+        "android_client_info": {
+          "package_name": "vimawhatsappstatusdownload.whatsapp_status_download"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "586650252189-cag375b9531msf58ddp68slg6umel8ua.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcECbtyxsVCK-XcBIimE9IOZ_a8ExITd4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "586650252189-cag375b9531msf58ddp68slg6umel8ua.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
