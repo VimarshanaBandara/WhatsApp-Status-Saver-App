@@ -6,13 +6,16 @@
 | :-------------: | :-------------:  | :-------------:  | :-------------:  | 
 |     SS 01     |    SS 02   |    SS 03     |     SS 04       |    
 
+| ![](demo/Grapic%20Screen.jpg) |
+| :-------------: | 
+| PlayStore Download Link - https://play.google.com/store/apps/details?id=vimawhatsappstatusdownload.whatsapp_status_download&hl=en&gl=US     | 
+
+
 | ![](demo/Icon%20Image.png) |
 | :-------------: | 
 |     PlayStore     |   
 
-| ![](demo/Grapic%20Screen.jpg) |
-| :-------------: | 
-| PlayStore Download Link - https://play.google.com/store/apps/details?id=vimawhatsappstatusdownload.whatsapp_status_download&hl=en&gl=US     |   
+  
 
 
 
